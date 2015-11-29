@@ -69,21 +69,22 @@ h2 {
   width: 620px;
   height: 680px;
   background-color: white;
-  margin-top: -20px;
+  margin-top: 20px;
   border: 1px solid grey;
 }
 
 .latest-news {
   float: left;
+  margin-top: 20px;
   background-color: #5A5E5E;
   width: 338px;
-  height: 331px;;
+  height: 341px;;
 }
 
 .donation {
   float: left;
   width: 338px;
-  height: 331px;
+  height: 340px;
   background-color: #C8D0CF;
 }
 

@@ -13,6 +13,11 @@ ul {
   margin-left: -60px;
 }
 
+h2 {
+  margin-left: 25px;
+  color: grey;
+}
+
 .header {
   height: 510px;
   width: 100%;
@@ -51,4 +56,48 @@ ul {
 .cat-in-grass {
   margin-top: 19px;
   margin-left: 200px;
+}
+
+.middle {
+  background-color: #E9F0EF;
+  height: 700px;
+}
+
+.rehome {
+  float: left;
+  margin-left: 200px;
+  width: 620px;
+  height: 680px;
+  background-color: white;
+  margin-top: -20px;
+  border: 1px solid grey;
+}
+
+.latest-news {
+  float: left;
+  background-color: #5A5E5E;
+  width: 338px;
+  height: 331px;;
+}
+
+.donation {
+  float: left;
+  width: 338px;
+  height: 331px;
+  background-color: #C8D0CF;
+}
+
+.img-rehome {
+  float: left;
+  margin-left: 25px;
+  margin-top: 10px;
+  padding-top: 10px;
+  margin-right: 15px;
+}
+
+.img-rehome-top {
+  float: left;
+  margin-left: 25px;
+  margin-top: 0;
+  margin-right: 15px;
 }

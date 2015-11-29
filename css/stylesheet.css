@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+}
+
+ul li {
+  display: inline;
+  text-decoration: none;
+  padding-left: 40px;
+  height: 100%;
+  color: grey;
+}
+ul {
+  margin-left: -60px;
+}
+
+.header {
+  height: 510px;
+  width: 100%;
+  background-image: url("../img/header-bg.jpg");
+}
+
+.header-logo {
+  margin-top: 0px;
+}
+
+.logo-header {
+  margin-top: 18px;
+  margin-left: 195px;
+  float: left;
+}
+
+.header-contact {
+  float: left;
+  height: auto;
+  width: auto;
+  margin-top: 40px;
+  margin-left: 550px;
+  color: white;
+}
+
+.menu {
+  width: 960px;
+  height: 50px;
+  float: left;
+  border: 1px solid grey;
+  background-color: #BDCDCB;
+  margin-left: 200px;
+  margin-top: 10px;
+}
+
+.cat-in-grass {
+  margin-top: 19px;
+  margin-left: 200px;
+}
